@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrayscaleTask", "GrayscaleTask\GrayscaleTask.csproj", "{ED3E31AE-A7BB-4FA3-9B73-481542534AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{D057D976-E719-4B33-A4A2-B3F35C2193F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED3E31AE-A7BB-4FA3-9B73-481542534AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3E31AE-A7BB-4FA3-9B73-481542534AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3E31AE-A7BB-4FA3-9B73-481542534AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3E31AE-A7BB-4FA3-9B73-481542534AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D057D976-E719-4B33-A4A2-B3F35C2193F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D057D976-E719-4B33-A4A2-B3F35C2193F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D057D976-E719-4B33-A4A2-B3F35C2193F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D057D976-E719-4B33-A4A2-B3F35C2193F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

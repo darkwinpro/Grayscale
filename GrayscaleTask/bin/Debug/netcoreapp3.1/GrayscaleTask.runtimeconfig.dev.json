@@ -1,0 +1,11 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/dark/.dotnet/store/|arch|/|tfm|",
+      "/Users/dark/.nuget/packages"
+    ],
+    "configProperties":{
+	"System.Drawing.EnableUnixSupport": true
+      }
+  }
+}
